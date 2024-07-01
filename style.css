@@ -1,0 +1,77 @@
+.section-title {
+    text-align: center;
+    padding-bottom: 60px;
+    position: relative;
+    color: #45505b;
+}
+
+.section-title h1 {
+    margin: 0;
+    font-size: 64px;
+    font-weight: 500;
+}
+
+.section-title h2 {
+    font-size: 32px;
+    font-weight: 500;
+    position: relative;
+}
+
+.section-title p {
+    margin-bottom: 0;
+}
+
+.section-title hr {
+    border: none;
+    border-top: 2px solid rgba(94, 98, 117, 0.2);
+}
+
+.card {
+    height: auto;
+}
+
+.card img {
+    height: 150px;
+    width: 150px;
+    object-fit: cover;
+    display: block;
+    border-radius: 50%;
+}
+
+.section {
+  padding: 60px 0;
+  overflow: clip;
+}
+
+.container {
+    color: #272829;
+}
+
+.container h3 {
+    color: #45505b;
+    font-size: 26px;
+    font-weight: 700;
+}
+
+.project-information .project-features {
+    display: flex;
+}
+
+.features {
+    margin-right: 75px;
+}
+.security {
+    margin-left: 75px;
+}
+
+.footer {
+    font-size: 14px;
+    text-align: center;
+    padding-top: 50px;
+    position: relative;
+}
+  
+.footer p {
+    font-size: 15;
+    font-style: italic;
+}
